@@ -1,3 +1,3 @@
 # CapstoneProject
 
-Built a business data structure complete with ERD diagram, and data relationships. Data was gathered using Python(Web scrapping,  Faker). Deployed on AWS using RDS, and Lake Formation(S3, Glue). Data was then transferred to Redshift for querying. Users can view and call up company info and transaction data.
+Built Business data structure complete with ERD diagram, Physical Data Model was deployed on an AWS RDS instance.  Data was gathered using Python(Web scraping, Faker) to populate database. DataLake was created using AWS LakeFormation and connected to AWS Redshift. Users can query company data for integrity and analysis.
